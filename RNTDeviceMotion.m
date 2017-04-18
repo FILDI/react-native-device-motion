@@ -7,7 +7,7 @@
 //
 
 #import "RNTDeviceMotion.h"
-#import "RCTEventDispatcher.h"
+#import <React/RCTEventDispatcher.h>
 @import CoreMotion;
 
 @implementation RNTDeviceMotion
